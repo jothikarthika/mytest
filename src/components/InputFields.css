@@ -1,0 +1,29 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    padding-bottom: 4px;
+    padding-top: 4px;
+  }
+  
+  .input-container input {
+    margin-right: 5px;
+    width: 30px;
+  }
+
+  .top-container button {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .input-container button {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .top-container {
+    display: flex;
+    align-items: right;
+    padding-bottom: 4px;
+    padding-left: 10px;
+  }
+  
